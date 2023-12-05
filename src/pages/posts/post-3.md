@@ -6,7 +6,7 @@ description: "我遇到了一些问题，但是在社区里面提问真的很有
 image:
   url: "https://docs.astro.build/assets/rays.webp"
   alt: "Thumbnail of Astro rays."
-pubDate: 2022-07-15
+pubDate: 2023-12-04
 tags: ["astro", "learning in public", "setbacks", "community"]
 ---
 
